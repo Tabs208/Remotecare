@@ -18,3 +18,9 @@ Health Guidelines:
 Access preloaded health information for common illnesses like malaria, typhoid, and maternal health.
 Cross-Platform Support:
 Build for Linux (including aarch64) and optionally other platforms (e.g., macOS, Windows).
+# RemoteCare CLI
+A command-line tool for managing medical emergencies in rural areas.
+
+## Marketing Website
+Learn more about the project and see a live demo:
+[RemoteCare Website](https://Tabs208.github.io/remotecare-website/).
