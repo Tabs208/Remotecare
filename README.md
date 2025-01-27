@@ -11,19 +11,21 @@ Generate **offline health guides** for basic first aid.
 **1.Log Medical Emergencies:**
 Input patient details, location, symptoms, and severity level.
 Save these logs locally in a JSON file or lightweight database (e.g., SQLite).
-example: bash remotecare log --name "John Doe" --symptoms "Severe chest pain" --location "Village A" --severity "High"
+**example:** bash remotecare log --name "John Doe" --symptoms "Severe chest pain" --location "Village A" --severity "High"
 
 **2.Prioritize Cases:**
 Sort and display logged cases by severity (High > Medium > Low). 
-example: bash remotecare prioritize
+**example:** bash remotecare prioritize
+
 **3.Notify Healthcare Centers:**
 Generate a summary of emergency cases and send them via email or SMS to nearby healthcare providers.
 Integration options:
 Use Twilio for SMS notifications.
 Use an SMTP server (e.g., Gmail) for email.
+
 **4.Offline First Aid Guide:**
 Provide text-based first aid instructions for common emergencies like burns, fractures, or fevers:
-bash remotecare guide --topic "burns"
+**example** bash remotecare guide --topic "burns"
 **output**
 First Aid for Burns:
 - Cool the burn under running water for at least 10 minutes.
