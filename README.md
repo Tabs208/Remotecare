@@ -47,7 +47,7 @@ First Aid for Burns:
 **Data Storage:** JSON or SQLite for storing emergency logs.
 **Notification Integrations:**
   **-Twilio API:** To send SMS alerts.
-  **-SMTP Server:**To send email notifications.
+  **-SMTP Server:** To send email notifications.
 
 ### Installation & Setup
 **Prerequisites**
