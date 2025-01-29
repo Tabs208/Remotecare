@@ -1,6 +1,6 @@
 #  RemoteCare CLI-Emergency Medical Assistance For Remote Areas.
 ## Overview 
-**RemoteCare CLI** is a command-line tool designed to enhance emergency medical assistance in remote areas. It enables community health workers or locals to log medical emergencies, prioritize cases based on severity, notify nearby healthcare providers via SMS or email, and access offline first-aid guides. This tool aims to streamline emergency response and improve healthcare outcomes in underserved regions.
+**RemoteCare** is a command-line tool designed to enhance emergency medical assistance in remote areas. It enables community health workers or locals to log medical emergencies, prioritize cases based on severity, notify nearby healthcare providers via SMS or email, and access offline first-aid guides. This tool aims to streamline emergency response and improve healthcare outcomes in underserved regions.
 ## Problem Statement:
 In rural and remote areas, access to timely emergency medical care is hindered by:
 1.Poor communication infrastructure.
@@ -8,7 +8,7 @@ In rural and remote areas, access to timely emergency medical care is hindered b
 3.Limited healthcare facilities and professionals.
 
 ### Solution:
-RemoteCare CLI provides a lightweight, accessible solution to:
+RemoteCare  provides a lightweight, accessible solution to:
 **1.Log Medical Emergencies:** Record patient details, location, symptoms, and severity.
 **2.Prioritize Emergencies:** Sort cases by severity to address urgent needs first.
 **3.Notify Healthcare Providers:** Send alerts via SMS or email to nearby medical centers.
@@ -60,7 +60,7 @@ Install dependencies.
 **Installation**
 Clone the repository:
  -git clone https://github.com/Tabs208/Remotecare.git
- -cd remotecare-cli
+ -cd remotecare
 Run the setup:
 
 ## Marketing Website
