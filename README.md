@@ -18,10 +18,11 @@ RemoteCare CLI provides a lightweight, accessible solution to:
 **1.Log Medical Emergencies:**
 Input patient details, location, symptoms, and severity level.
 Save these logs locally in a JSON file or lightweight database (e.g., SQLite).
-**example:** bash remotecare log --name "John Doe" --symptoms "Severe chest pain" --location "Village A" --severity "High"
+**example:** bash  .\target\debug\remotecare.exe log --name "John Doe" --location "Village A" --symptoms "Severe bleeding" --severity High
+**output** Emergency logged successfully!
 **2.Prioritize Cases:**
 List and sort emergency cases by severity to ensure urgent cases receive attention first.
-**example:** bash remotecare prioritize
+**example:** bash .\target\debug\remotecare.exe prioritize
 **output**
 1. John Doe - Severe bleeding (High)
 2. Jane Smith - High fever (Medium)
