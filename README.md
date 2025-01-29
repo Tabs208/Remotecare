@@ -26,11 +26,13 @@ List and sort emergency cases by severity to ensure urgent cases receive attenti
 1. John Doe - Severe bleeding (High)
 2. Jane Smith - High fever (Medium)
 3. Alex Brown - Mild headache (Low)
+
 **3.Notify Healthcare Centers:**
 Generate a summary of emergency cases and send them via email or SMS to nearby healthcare providers.
 Integration options:
 Use Twilio for SMS notifications.
 Use an SMTP server (e.g., Gmail) for email.
+
 **4.Offline First Aid Guide:**
 Provide text-based first aid instructions for common emergencies like burns, fractures, or fevers:
 **example** bash remotecare guide --topic "burns"
@@ -46,11 +48,11 @@ First Aid for Burns:
 **Notification Integrations:**
   **-Twilio API:** To send SMS alerts.
   **-SMTP Server:**To send email notifications.
+
 **###Installation & Setup**
 **Prerequisites**
 Ensure  Rust) is installed.
-Install dependencies:
-
+Install dependencies.
 **Installation**
 Clone the repository:
  -git clone https://github.com/Tabs208/Remotecare-cli.git
