@@ -14,7 +14,7 @@ RemoteCare CLI provides a lightweight, accessible solution to:
 **3.Notify Healthcare Providers:** Send alerts via SMS or email to nearby medical centers.
 **4.Provide Offline First-Aid Guidance:** Offer text-based first-aid instructions for common emergencies.
 
-#### Core Features
+### Core Features
 **1.Log Medical Emergencies:**
 Input patient details, location, symptoms, and severity level.
 Save these logs locally in a JSON file or lightweight database (e.g., SQLite).
@@ -40,13 +40,13 @@ First Aid for Burns:
 - Cover the burn with a clean, non-fluffy cloth.
 - Do not apply creams or lotions.
 
-**##Technical Details**
+**###Technical Details**
 **Programming Language:** Rust 
 **Data Storage:** JSON or SQLite for storing emergency logs.
 **Notification Integrations:**
   **-Twilio API:** To send SMS alerts.
   **-SMTP Server:**To send email notifications.
-**##Installation & Setup**
+**###Installation & Setup**
 **Prerequisites**
 Ensure  Rust) is installed.
 Install dependencies:
