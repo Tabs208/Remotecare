@@ -42,14 +42,14 @@ First Aid for Burns:
 - Cover the burn with a clean, non-fluffy cloth.
 - Do not apply creams or lotions.
 
-**###Technical Details**
+### Technical Details
 **Programming Language:** Rust 
 **Data Storage:** JSON or SQLite for storing emergency logs.
 **Notification Integrations:**
   **-Twilio API:** To send SMS alerts.
   **-SMTP Server:**To send email notifications.
 
-**###Installation & Setup**
+### Installation & Setup
 **Prerequisites**
 Ensure  Rust) is installed.
 Install dependencies.
