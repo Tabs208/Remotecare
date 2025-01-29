@@ -6,18 +6,19 @@ In rural and remote areas, access to timely emergency medical care is hindered b
 1.Poor communication infrastructure.
 2.Lack of streamlined emergency logging and prioritization.
 3.Limited healthcare facilities and professionals.
+
 ### Solution:
 RemoteCare CLI provides a lightweight, accessible solution to:
 **1.Log Medical Emergencies:** Record patient details, location, symptoms, and severity.
 **2.Prioritize Emergencies:** Sort cases by severity to address urgent needs first.
 **3.Notify Healthcare Providers:** Send alerts via SMS or email to nearby medical centers.
 **4.Provide Offline First-Aid Guidance:** Offer text-based first-aid instructions for common emergencies.
+
 #### Core Features
 **1.Log Medical Emergencies:**
 Input patient details, location, symptoms, and severity level.
 Save these logs locally in a JSON file or lightweight database (e.g., SQLite).
 **example:** bash remotecare log --name "John Doe" --symptoms "Severe chest pain" --location "Village A" --severity "High"
-
 **2.Prioritize Cases:**
 List and sort emergency cases by severity to ensure urgent cases receive attention first.
 **example:** bash remotecare prioritize
@@ -38,6 +39,7 @@ First Aid for Burns:
 - Cool the burn under running water for at least 10 minutes.
 - Cover the burn with a clean, non-fluffy cloth.
 - Do not apply creams or lotions.
+
 **##Technical Details**
 **Programming Language:** Rust 
 **Data Storage:** JSON or SQLite for storing emergency logs.
@@ -48,6 +50,7 @@ First Aid for Burns:
 **Prerequisites**
 Ensure  Rust) is installed.
 Install dependencies:
+
 **Installation**
 Clone the repository:
  -git clone https://github.com/Tabs208/Remotecare-cli.git
