@@ -55,7 +55,7 @@ Ensure  Rust) is installed.
 Install dependencies.
 **Installation**
 Clone the repository:
- -git clone https://github.com/Tabs208/Remotecare-cli.git
+ -git clone https://github.com/Tabs208/Remotecare.git
  -cd remotecare-cli
 Run the setup:
 
