@@ -3,9 +3,9 @@
 **RemoteCare** is a command-line tool designed to enhance emergency medical assistance in remote areas. It enables community health workers or locals to log medical emergencies, prioritize cases based on severity, notify nearby healthcare providers via SMS or email, and access offline first-aid guides. This tool aims to streamline emergency response and improve healthcare outcomes in underserved regions.
 ## Problem Statement:
 In rural and remote areas, access to timely emergency medical care is hindered by:
-1.Poor communication infrastructure.
-2.Lack of streamlined emergency logging and prioritization.
-3.Limited healthcare facilities and professionals.
+**1.** Poor communication infrastructure.
+**2.** Lack of streamlined emergency logging and prioritization.
+**3.** Limited healthcare facilities and professionals.
 
 ### Solution:
 RemoteCare  provides a lightweight, accessible solution to:
